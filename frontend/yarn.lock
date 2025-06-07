@@ -6479,6 +6479,11 @@ lru-cache@^5.1.1:
   dependencies:
     yallist "^3.0.2"
 
+lucide-react@^0.513.0:
+  version "0.513.0"
+  resolved "https://registry.yarnpkg.com/lucide-react/-/lucide-react-0.513.0.tgz#1315c04fb1121f3be7883ff08a95d55a31a14e97"
+  integrity sha512-CJZKq2g8Y8yN4Aq002GahSXbG2JpFv9kXwyiOAMvUBv7pxeOFHUWKB0mO7MiY4ZVFCV4aNjv2BJFq/z3DgKPQg==
+
 magic-string@^0.25.0, magic-string@^0.25.7:
   version "0.25.9"
   resolved "https://registry.yarnpkg.com/magic-string/-/magic-string-0.25.9.tgz#de7f9faf91ef8a1c91d02c2e5314c8277dbcdd1c"
@@ -7865,6 +7870,11 @@ react-error-overlay@^6.0.11:
   version "6.0.11"
   resolved "https://registry.yarnpkg.com/react-error-overlay/-/react-error-overlay-6.0.11.tgz#92835de5841c5cf08ba00ddd2d677b6d17ff9adb"
   integrity sha512-/6UZ2qgEyH2aqzYZgQPxEnz33NJ2gNsnHA2o5+o4wW9bLM/JYQitNP9xPhsXwC08hMMovfGe/8retsdDsczPRg==
+
+react-icons@^5.5.0:
+  version "5.5.0"
+  resolved "https://registry.yarnpkg.com/react-icons/-/react-icons-5.5.0.tgz#8aa25d3543ff84231685d3331164c00299cdfaf2"
+  integrity sha512-MEFcXdkP3dLo8uumGI5xN3lDFNsRtrjbOEKDLD7yv76v4wpnEq2Lt2qeHaQOr34I/wPN3s3+N08WkQ+CW37Xiw==
 
 react-is@^16.13.1:
   version "16.13.1"
